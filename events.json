@@ -1,0 +1,61 @@
+[
+	
+	{
+	  "event_name_heading" :"Christmas Service",
+	  "event_day":"25",
+	  "event_month" : "Dec",
+	  "event_time" : "Saturday 05:00 pm",
+	  "event_headed_by" : "Rev. Fr. Bijoy Sakhariah",
+	  "event_location" : "203 N Howell St, St Paul, MN 55104",
+	  "event_descriptin" :"Luke 2:9-14 An angel of the Lord appeared to them, and the glory of the Lord shone around them, and they were terrified. But the angel said to them, “Do not be afraid. I bring you good news of great joy that will be for all the people. Today in the town of David a Savior has been born to you; he is Christ the Lord.",
+	  "event_image" :"https://www.sgocminnesota.org/img/editor-image/nativity_compressed.jpg",
+	  "event_date_ddmmyyyy":"25/12/2020"
+	},
+	{	
+	  "event_name_heading" :"Christmas Service2",
+	  "event_day":"25",
+	  "event_month" : "Dec",
+	  "event_time" : "Saturday 05:00 pm",
+	  "event_headed_by" : "Rev. Fr. Bijoy Sakhariah",
+	  "event_location" : "203 N Howell St, St Paul, MN 55104",
+	  "event_descriptin" :"Luke 2:9-14 An angel of the Lord appeared to them, and the glory of the Lord shone around them, and they were terrified. But the angel said to them, “Do not be afraid. I bring you good news of great joy that will be for all the people. Today in the town of David a Savior has been born to you; he is Christ the Lord.",
+	  "event_image" :"https://www.sgocminnesota.org/img/editor-image/nativity_compressed.jpg",
+	  "event_date_ddmmyyyy":"25/12/2020"
+	},
+	
+	{	
+	  "event_name_heading" :"Christmas Service3",
+	  "event_day":"25",
+	  "event_month" : "Dec",
+	  "event_time" : "Saturday 05:00 pm",
+	  "event_headed_by" : "Rev. Fr. Bijoy Sakhariah",
+	  "event_location" : "203 N Howell St, St Paul, MN 55104",
+	  "event_descriptin" :"Luke 2:9-14 An angel of the Lord appeared to them, and the glory of the Lord shone around them, and they were terrified. But the angel said to them, “Do not be afraid. I bring you good news of great joy that will be for all the people. Today in the town of David a Savior has been born to you; he is Christ the Lord.",
+	  "event_image" :"https://www.sgocminnesota.org/img/editor-image/nativity_compressed.jpg",
+	  "event_date_ddmmyyyy":"25/03/2019"
+	},
+
+	{	
+	  "event_name_heading" :"Christmas Service4",
+	  "event_day":"25",
+	  "event_month" : "Dec",
+	  "event_time" : "Saturday 05:00 pm",
+	  "event_headed_by" : "Rev. Fr. Bijoy Sakhariah",
+	  "event_location" : "203 N Howell St, St Paul, MN 55104",
+	  "event_descriptin" :"Luke 2:9-14 An angel of the Lord appeared to them, and the glory of the Lord shone around them, and they were terrified. But the angel said to them, “Do not be afraid. I bring you good news of great joy that will be for all the people. Today in the town of David a Savior has been born to you; he is Christ the Lord.",
+	  "event_image" :"https://www.sgocminnesota.org/img/editor-image/nativity_compressed.jpg",
+	  "event_date_ddmmyyyy":"25/12/2019"
+	},
+
+	{	
+	  "event_name_heading" :"Christmas Service5",
+	  "event_day":"25",
+	  "event_month" : "Dec",
+	  "event_time" : "Saturday 05:00 pm",
+	  "event_headed_by" : "Rev. Fr. Bijoy Sakhariah",
+	  "event_location" : "203 N Howell St, St Paul, MN 55104",
+	  "event_descriptin" :"Luke 2:9-14 An angel of the Lord appeared to them, and the glory of the Lord shone around them, and they were terrified. But the angel said to them, “Do not be afraid. I bring you good news of great joy that will be for all the people. Today in the town of David a Savior has been born to you; he is Christ the Lord.",
+	  "event_image" :"https://www.sgocminnesota.org/img/editor-image/nativity_compressed.jpg",
+	  "event_date_ddmmyyyy":"26/02/2025"
+	}
+ ]
